@@ -15,7 +15,7 @@
 	</div>
 	
 	<h6 class="display-6">All Projects</h6>
-	<table class="table table-striped">
+	<table class="table table-dark table-striped">
 		<colgroup>
       		<col class="col-3"></col>
       		<col class="col-3"></col>
@@ -48,7 +48,7 @@
 	</table>
 	
 	<h6 class="display-6">Your Projects</h6>
-	<table class="table table-striped">
+	<table class="table table-dark table-striped">
 		<colgroup>
       		<col class="col-3"></col>
       		<col class="col-3"></col>
